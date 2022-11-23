@@ -1,0 +1,628 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a8a4f56dcb39e5926827ed0907e6a8459"><param name="Name" value="ADCFilter(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a0b27b50e40405c6fc149078e10387372"><param name="Name" value="ADCSample(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aa09b6a3c9ddd083b8712980ca29e3f2a"><param name="Name" value="ADC_DMA_RAW[3]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a4f836c05b4c50f280525806c7a8f5983"><param name="Name" value="ADC_Filtered[3]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a6ebfed80acf44488ab8e7d22a4ac4c71"><param name="Name" value="APP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a06324f7942b9d7b3b74ce9eae71dad39"><param name="Name" value="AnglePID(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a403c3eddba3c7150f02374ac5681f9c0"><param name="Name" value="Angle_offset"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a378d01f7b019cd1abfe5745c3c0c5e1f"><param name="Name" value="ClarkeTransform(Coordinates *pComponents)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#ae5e8b4d32e434ec0360c3d06d4fa7219"><param name="Name" value="a"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#ab1551d8043c2aa4410fb7dbb1fe3be7b"><param name="Name" value="alpha"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#a070cc5ce80d6538c54c390304e858ebe"><param name="Name" value="b"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#aa773d9a6c0ccefaa0fc9ab66fec68ec1"><param name="Name" value="beta"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#ad23c91bdeebe3f7ce86956114696b462"><param name="Name" value="c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#a3fbbd8a3959e76a2bc3455d3bade52dc"><param name="Name" value="d"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html"><param name="Name" value="Components"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#a0a19a0620af7373e3ddba0ce4e1058e1"><param name="Name" value="q"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcb"><param name="Name" value="ControlMode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcb"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7041679f372ba53525b1eaed6001e67a"><param name="Name" value="ControlMode"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7041679f372ba53525b1eaed6001e67a"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a646bef2e4e0d58c4b2a1c3d3037475a4"><param name="Name" value="Coordinates"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a9e1b1632eb525d17b7377f974c3095a8"><param name="Name" value="Current"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a5c73e4801b04f509ab15b0939cf51019"><param name="Name" value="CurrentLimit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a6907fe9118a5749f9ef88ccc2888fc5d"><param name="Name" value="CurrentReconstruction(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7efe7dfc0d85ca33ea9903e552104c59"><param name="Name" value="Current_lastValue[5]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7eb418de90bcd7d3f2faf0075c9d88f3"><param name="Name" value="DC_Calibration(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a36e10e934636a4c529d3e721fc662201"><param name="Name" value="DC_offset[2]"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fb"><param name="Name" value="DRV_GAIN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fb"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa7c4fecf4e12490cdae6a6a0abd3959e"><param name="Name" value="DRV_GAIN"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa7c4fecf4e12490cdae6a6a0abd3959e"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fba30f3f2fba31dab5fa94c1979df5b3648"><param name="Name" value="DRV_GAIN_10"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fba003ad48d1b5cdccf078d183a8ebb6660"><param name="Name" value="DRV_GAIN_40"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aacc842255ac43e600deac25fefd0fdb0a"><param name="Name" value="Drag"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a592212da4a52fdaa5fa9484176076347"><param name="Name" value="E_angle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a00c1a71e5c10bac5a24b57ef7980838c"><param name="Name" value="E_angle_pre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a74b8d54f398d5cace9878611ddda252b"><param name="Name" value="EnableGate(void)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a3833cbec98df3e6c130c4841b8401d70"><param name="Name" value="FOC(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a8d782bbdb4cf49779abe695b1bc32b43"><param name="Name" value="FOCcheck(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aa436ecffb0346b444ef8e03489844ebf3"><param name="Name" value="ForceFeedback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#adab12f80393f46ebe1732964a965ffff"><param name="Name" value="GainSelection(DRV_GAIN gain)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ae4de542701bd589dcf40374765b978a2"><param name="Name" value="GetSVPWM(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a96353709b0ece65a0f458f13f7ebd35b"><param name="Name" value="GetSector(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a412e84f409f4dc2bfbc19a3eccca4570"><param name="Name" value="IdPID(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcbad3fa9ae9431d6cb1772f9d9df48cab19"><param name="Name" value="Idle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7658aa110661b90ebb23f29cfbc73b92"><param name="Name" value="InvPark(Coordinates *pComponents, int theta)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a2773bdccd83bd5da909b5578439d569b"><param name="Name" value="IqPID(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#acb4618d69b8a7c34c416c427bbc842a4"><param name="Name" value="M_angle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a959161fa583c55e53eb1b708f81c5877"><param name="Name" value="M_angle_pre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a3ed6c84fc54eaa26a6be1426ca449c74"><param name="Name" value="Mode"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a9ca0cc7c05bfaf12c86799a2d71c8ede"><param name="Name" value="ModeSelection(Motor *mHandle, ControlMode mode)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a39d7de953ea95e29b89b7294a304fca1"><param name="Name" value="ModulationLimit(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aa09b6a3c9ddd083b8712980ca29e3f2a"><param name="Name" value="ADC_DMA_RAW[3]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a4f836c05b4c50f280525806c7a8f5983"><param name="Name" value="ADC_Filtered[3]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a6ebfed80acf44488ab8e7d22a4ac4c71"><param name="Name" value="APP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a403c3eddba3c7150f02374ac5681f9c0"><param name="Name" value="Angle_offset"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a9e1b1632eb525d17b7377f974c3095a8"><param name="Name" value="Current"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a5c73e4801b04f509ab15b0939cf51019"><param name="Name" value="CurrentLimit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7efe7dfc0d85ca33ea9903e552104c59"><param name="Name" value="Current_lastValue[5]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a36e10e934636a4c529d3e721fc662201"><param name="Name" value="DC_offset[2]"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a592212da4a52fdaa5fa9484176076347"><param name="Name" value="E_angle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a00c1a71e5c10bac5a24b57ef7980838c"><param name="Name" value="E_angle_pre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#acb4618d69b8a7c34c416c427bbc842a4"><param name="Name" value="M_angle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a959161fa583c55e53eb1b708f81c5877"><param name="Name" value="M_angle_pre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a3ed6c84fc54eaa26a6be1426ca449c74"><param name="Name" value="Mode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a9e751f80e20e54a66ba08973f9e9d3c1"><param name="Name" value="SpeedCNT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a4609df9c2a0c5cca737b725c39ad103a"><param name="Name" value="SpeedLimit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ac4c7ec6bf2a7b0636c00216576186d68"><param name="Name" value="T1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7ef8354b4de76dd7f6a12fc8f545aeb7"><param name="Name" value="T2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a50351efee76ac59cbfddc319a43f0081"><param name="Name" value="Ta"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ab670caa75d08f1acf0768f0bc4333326"><param name="Name" value="Tb"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a22e1179371b98f23e756984bc5e9ba95"><param name="Name" value="Tc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a8a0b87e43a6e0286720ed497c8b9bd4c"><param name="Name" value="Tx"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#adf004c0e8eda4c9b4b2ad809d0740664"><param name="Name" value="Ty"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a16eb202373e014b9a1b5e8ee5477a0eb"><param name="Name" value="Tz"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ab9b1e67e079f673b0c46489faf3278e6"><param name="Name" value="Uref1"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#afbf3a9324aecc5e186da8706f2349812"><param name="Name" value="Uref2"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#adac9118b4a7b71d027512488c4ba7e9b"><param name="Name" value="Uref3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a991a1f8c68f79e75a71471dfc90d602f"><param name="Name" value="Vdc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a848e7f0227cdb284ae2e733510c80493"><param name="Name" value="Voltage"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aa3983d97c6cca1ba09c7d32165ba717c"><param name="Name" value="VoltageLimit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ab3c4b737dfc5c78a6aba50dda616f7c3"><param name="Name" value="X"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ac915220fb659eb2c5958a1ccd81b80d4"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aa65967cca170d24dcd0d555df0d5ee4f"><param name="Name" value="Z"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ae42e7244616d6d75ce0e711a945a30a9"><param name="Name" value="anglePID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a5222692e4ce396dc210789ad78e73f2e"><param name="Name" value="hI2CEncoder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a801b68b4e2ff446330c2fb973a7a5a35"><param name="Name" value="hMotorADC"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#af44336d6087385213b2da6b874c8d0c9"><param name="Name" value="hTimDriver"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a5ffac741774414b0bee0b8e7d87400f3"><param name="Name" value="hTimEncoder"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7adb1ec60b36b079779994003a1c8224"><param name="Name" value="idPID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a49609d8014cc2f172f982aa34a0abced"><param name="Name" value="iqPID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aad92deaf7a5b8c4b060a1b3aa01236bb"><param name="Name" value="lapCNT"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ae70666c94f6dedcf20373509f86ef573"><param name="Name" value="lapCNT_pre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a8718e12c63580137f1045c19563d91e8"><param name="Name" value="nCalibrationFlag"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#af3f1c7d958554a481027e6d53acf02d7"><param name="Name" value="nPhase"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a514da89140a829d5eb40403a1bf3fabe"><param name="Name" value="nPolePairs"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a75cc7805bfd0f3ad0c48a5d1542c9c85"><param name="Name" value="sector"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7f7e4724cf57d59513b39c5ecc81adc8"><param name="Name" value="speed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a8c9772f89af80dbb285c149a0374172c"><param name="Name" value="speedPID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html"><param name="Name" value="Motor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a6c5e12603b08b48bbe644498c18d696d"><param name="Name" value="speed_pre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa05889183d3dd27313d91a9f5c6105e9"><param name="Name" value="MotorCalibration(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a10d4a5658201a6cb630bbe063d898472"><param name="Name" value="MotorInit(Motor *mHandle, ADC_HandleTypeDef hadc, TIM_HandleTypeDef hDriver, TIM_HandleTypeDef hEncoder, I2C_HandleTypeDef hIICEncoder, ControlMode mode)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a86ebf8db552e7de7117d19c4b32ce6af"><param name="Name" value="MotorOpenLoop(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7381bd99b9f8d665d55ffc97eedc9e9d"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7381bd99b9f8d665d55ffc97eedc9e9d"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a5bc58d43105d723b774621219125aeb1"><param name="Name" value="err"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#afaa5762f885189bc07c5702d0e9ff140"><param name="Name" value="err_pre"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a16676aeaa8bf988301616be3eca67dfe"><param name="Name" value="err_sum"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#ae7a5c6018507bb1361fcca170e069b9c"><param name="Name" value="kd"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a050993b7ca6c97e62c1020017f716b91"><param name="Name" value="ki"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a1f7add0f84d583bc2eceb290d6c4cc06"><param name="Name" value="kp"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html"><param name="Name" value="PID_para"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#af0df2177301e4061ab72ade2ea437bcd"><param name="Name" value="target"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a78b6d2cd4422b49b7ea838ce02d4bbcd"><param name="Name" value="ParkTransform(Coordinates *pComponents, int theta)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcba0ca2444163688098d8e674e31fb11397"><param name="Name" value="Position"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4c7cca717941f9eb5c7f90f44ac8746b"><param name="Name" value="SQRT_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a88ae85a44012b8f171bd1fcd4064ace0"><param name="Name" value="SetAnglePID(Motor *mHandle, float kp, float ki, float kd)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ad5d2a006a653c2eb76f455b9277d8729"><param name="Name" value="SetAngleTarget(Motor *mHandle, float Target)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a84d9a96ad0f0c9549bb4d32581957441"><param name="Name" value="SetCurrentPID(Motor *mHandle, float kp, float ki, float kd)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ac84226769ac245e2efd1ad7811489a68"><param name="Name" value="SetCurrentTarget(Motor *mHandle, float idTarget, float iqTarget)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a8db1fd960af01c3aa2bfb514e1def9d5"><param name="Name" value="SetIncrementAngle(Motor *mHandle, float Target)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a21066fe1f928c7c279fbcab34c8d094b"><param name="Name" value="SetMotorParam(Motor *mHandle, uint8_t DC_supply, uint8_t phase, uint8_t polePairs, float MaxCurrent, float MaxSpeed)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#adf18f98940d1b08559520b06d6ff405c"><param name="Name" value="SetSVPWM(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a9c1255dcaf68017b30f5d2132e2a5a6d"><param name="Name" value="SetSpeedPID(Motor *mHandle, float kp, float ki, float kd, float outMax)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa16906f85af7a938b4cecb1b76953762"><param name="Name" value="SetSpeedTarget(Motor *mHandle, float Target)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aae72db1ad60dbc5ad7dbcb42d6035038f"><param name="Name" value="SpaceWalk"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcba2891de101c03df22f3bf8137f8622908"><param name="Name" value="Speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a9e751f80e20e54a66ba08973f9e9d3c1"><param name="Name" value="SpeedCNT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a4609df9c2a0c5cca737b725c39ad103a"><param name="Name" value="SpeedLimit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7d7728f0aacb1fbae2a6accff6ae7f09"><param name="Name" value="SpeedPID(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aaab57132cff95cd4bb6b65a486c127dfb"><param name="Name" value="Switch"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ac4c7ec6bf2a7b0636c00216576186d68"><param name="Name" value="T1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7ef8354b4de76dd7f6a12fc8f545aeb7"><param name="Name" value="T2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a50351efee76ac59cbfddc319a43f0081"><param name="Name" value="Ta"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ab670caa75d08f1acf0768f0bc4333326"><param name="Name" value="Tb"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a22e1179371b98f23e756984bc5e9ba95"><param name="Name" value="Tc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcbaa1ffbb212863410b17ce950709b7caa1"><param name="Name" value="Torque"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a8a0b87e43a6e0286720ed497c8b9bd4c"><param name="Name" value="Tx"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#adf004c0e8eda4c9b4b2ad809d0740664"><param name="Name" value="Ty"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a16eb202373e014b9a1b5e8ee5477a0eb"><param name="Name" value="Tz"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aec2a4da8c1ff32ae0a52daebe3fe6d00"><param name="Name" value="UnitPulse"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ab9b1e67e079f673b0c46489faf3278e6"><param name="Name" value="Uref1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#afbf3a9324aecc5e186da8706f2349812"><param name="Name" value="Uref2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#adac9118b4a7b71d027512488c4ba7e9b"><param name="Name" value="Uref3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66a"><param name="Name" value="UserAPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66a"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a05445b981aabc15fe58b2aa04cc007be"><param name="Name" value="UserAPP"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a05445b981aabc15fe58b2aa04cc007be"><param name="Name" value="control.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a503ae511083e4a1a1c330a01cd21cf1a"><param name="Name" value="UserAPPSelection(Motor *mHandle, UserAPP app)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a991a1f8c68f79e75a71471dfc90d602f"><param name="Name" value="Vdc"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a848e7f0227cdb284ae2e733510c80493"><param name="Name" value="Voltage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aa3983d97c6cca1ba09c7d32165ba717c"><param name="Name" value="VoltageLimit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ab3c4b737dfc5c78a6aba50dda616f7c3"><param name="Name" value="X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ac915220fb659eb2c5958a1ccd81b80d4"><param name="Name" value="Y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aa65967cca170d24dcd0d555df0d5ee4f"><param name="Name" value="Z"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#ae5e8b4d32e434ec0360c3d06d4fa7219"><param name="Name" value="a"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#ab1551d8043c2aa4410fb7dbb1fe3be7b"><param name="Name" value="alpha"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ae42e7244616d6d75ce0e711a945a30a9"><param name="Name" value="anglePID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#a070cc5ce80d6538c54c390304e858ebe"><param name="Name" value="b"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#aa773d9a6c0ccefaa0fc9ab66fec68ec1"><param name="Name" value="beta"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#ad23c91bdeebe3f7ce86956114696b462"><param name="Name" value="c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a16576dccb7e1137b80a15a0259b77eb6"><param name="Name" value="calcAngle(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a8a4f56dcb39e5926827ed0907e6a8459"><param name="Name" value="ADCFilter(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a0b27b50e40405c6fc149078e10387372"><param name="Name" value="ADCSample(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a06324f7942b9d7b3b74ce9eae71dad39"><param name="Name" value="AnglePID(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a378d01f7b019cd1abfe5745c3c0c5e1f"><param name="Name" value="ClarkeTransform(Coordinates *pComponents)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7041679f372ba53525b1eaed6001e67a"><param name="Name" value="ControlMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcb"><param name="Name" value="ControlMode"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a646bef2e4e0d58c4b2a1c3d3037475a4"><param name="Name" value="Coordinates"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a6907fe9118a5749f9ef88ccc2888fc5d"><param name="Name" value="CurrentReconstruction(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7eb418de90bcd7d3f2faf0075c9d88f3"><param name="Name" value="DC_Calibration(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fb"><param name="Name" value="DRV_GAIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa7c4fecf4e12490cdae6a6a0abd3959e"><param name="Name" value="DRV_GAIN"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fba30f3f2fba31dab5fa94c1979df5b3648"><param name="Name" value="DRV_GAIN_10"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4fe62c345b7ce33aac126a260c5a82fba003ad48d1b5cdccf078d183a8ebb6660"><param name="Name" value="DRV_GAIN_40"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aacc842255ac43e600deac25fefd0fdb0a"><param name="Name" value="Drag"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a74b8d54f398d5cace9878611ddda252b"><param name="Name" value="EnableGate(void)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a3833cbec98df3e6c130c4841b8401d70"><param name="Name" value="FOC(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a8d782bbdb4cf49779abe695b1bc32b43"><param name="Name" value="FOCcheck(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aa436ecffb0346b444ef8e03489844ebf3"><param name="Name" value="ForceFeedback"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#adab12f80393f46ebe1732964a965ffff"><param name="Name" value="GainSelection(DRV_GAIN gain)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ae4de542701bd589dcf40374765b978a2"><param name="Name" value="GetSVPWM(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a96353709b0ece65a0f458f13f7ebd35b"><param name="Name" value="GetSector(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a412e84f409f4dc2bfbc19a3eccca4570"><param name="Name" value="IdPID(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcbad3fa9ae9431d6cb1772f9d9df48cab19"><param name="Name" value="Idle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7658aa110661b90ebb23f29cfbc73b92"><param name="Name" value="InvPark(Coordinates *pComponents, int theta)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a2773bdccd83bd5da909b5578439d569b"><param name="Name" value="IqPID(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a9ca0cc7c05bfaf12c86799a2d71c8ede"><param name="Name" value="ModeSelection(Motor *mHandle, ControlMode mode)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a39d7de953ea95e29b89b7294a304fca1"><param name="Name" value="ModulationLimit(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa05889183d3dd27313d91a9f5c6105e9"><param name="Name" value="MotorCalibration(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a10d4a5658201a6cb630bbe063d898472"><param name="Name" value="MotorInit(Motor *mHandle, ADC_HandleTypeDef hadc, TIM_HandleTypeDef hDriver, TIM_HandleTypeDef hEncoder, I2C_HandleTypeDef hIICEncoder, ControlMode mode)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a86ebf8db552e7de7117d19c4b32ce6af"><param name="Name" value="MotorOpenLoop(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7381bd99b9f8d665d55ffc97eedc9e9d"><param name="Name" value="PID_para"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a78b6d2cd4422b49b7ea838ce02d4bbcd"><param name="Name" value="ParkTransform(Coordinates *pComponents, int theta)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcba0ca2444163688098d8e674e31fb11397"><param name="Name" value="Position"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a4c7cca717941f9eb5c7f90f44ac8746b"><param name="Name" value="SQRT_3"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a88ae85a44012b8f171bd1fcd4064ace0"><param name="Name" value="SetAnglePID(Motor *mHandle, float kp, float ki, float kd)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ad5d2a006a653c2eb76f455b9277d8729"><param name="Name" value="SetAngleTarget(Motor *mHandle, float Target)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a84d9a96ad0f0c9549bb4d32581957441"><param name="Name" value="SetCurrentPID(Motor *mHandle, float kp, float ki, float kd)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ac84226769ac245e2efd1ad7811489a68"><param name="Name" value="SetCurrentTarget(Motor *mHandle, float idTarget, float iqTarget)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a8db1fd960af01c3aa2bfb514e1def9d5"><param name="Name" value="SetIncrementAngle(Motor *mHandle, float Target)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a21066fe1f928c7c279fbcab34c8d094b"><param name="Name" value="SetMotorParam(Motor *mHandle, uint8_t DC_supply, uint8_t phase, uint8_t polePairs, float MaxCurrent, float MaxSpeed)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#adf18f98940d1b08559520b06d6ff405c"><param name="Name" value="SetSVPWM(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a9c1255dcaf68017b30f5d2132e2a5a6d"><param name="Name" value="SetSpeedPID(Motor *mHandle, float kp, float ki, float kd, float outMax)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aa16906f85af7a938b4cecb1b76953762"><param name="Name" value="SetSpeedTarget(Motor *mHandle, float Target)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aae72db1ad60dbc5ad7dbcb42d6035038f"><param name="Name" value="SpaceWalk"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcba2891de101c03df22f3bf8137f8622908"><param name="Name" value="Speed"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a7d7728f0aacb1fbae2a6accff6ae7f09"><param name="Name" value="SpeedPID(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66aaab57132cff95cd4bb6b65a486c127dfb"><param name="Name" value="Switch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aee3ea37f4f505980157cf93a84687bcbaa1ffbb212863410b17ce950709b7caa1"><param name="Name" value="Torque"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#aec2a4da8c1ff32ae0a52daebe3fe6d00"><param name="Name" value="UnitPulse"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#ab8fd4796026dfcd8e06f047989acb66a"><param name="Name" value="UserAPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a05445b981aabc15fe58b2aa04cc007be"><param name="Name" value="UserAPP"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a503ae511083e4a1a1c330a01cd21cf1a"><param name="Name" value="UserAPPSelection(Motor *mHandle, UserAPP app)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a16576dccb7e1137b80a15a0259b77eb6"><param name="Name" value="calcAngle(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a5cde34a6778b1b8e9d106a8b94405cd2"><param name="Name" value="dq2SVPWM(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a121e9fcddd5f7811aeeccb023ab60751"><param name="Name" value="getEangle(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a3f371a9588ee8097b54b5893c53a310c"><param name="Name" value="getSpeed(Motor *mHandle)"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html"><param name="Name" value="control.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a1daf785e3f68d293c7caa1c756d5cb74"><param name="Name" value="pi"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#a3fbbd8a3959e76a2bc3455d3bade52dc"><param name="Name" value="d"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a5cde34a6778b1b8e9d106a8b94405cd2"><param name="Name" value="dq2SVPWM(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a5bc58d43105d723b774621219125aeb1"><param name="Name" value="err"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#afaa5762f885189bc07c5702d0e9ff140"><param name="Name" value="err_pre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a16676aeaa8bf988301616be3eca67dfe"><param name="Name" value="err_sum"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a121e9fcddd5f7811aeeccb023ab60751"><param name="Name" value="getEangle(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a3f371a9588ee8097b54b5893c53a310c"><param name="Name" value="getSpeed(Motor *mHandle)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a5222692e4ce396dc210789ad78e73f2e"><param name="Name" value="hI2CEncoder"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a801b68b4e2ff446330c2fb973a7a5a35"><param name="Name" value="hMotorADC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#af44336d6087385213b2da6b874c8d0c9"><param name="Name" value="hTimDriver"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a5ffac741774414b0bee0b8e7d87400f3"><param name="Name" value="hTimEncoder"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7adb1ec60b36b079779994003a1c8224"><param name="Name" value="idPID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a49609d8014cc2f172f982aa34a0abced"><param name="Name" value="iqPID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#ae7a5c6018507bb1361fcca170e069b9c"><param name="Name" value="kd"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a050993b7ca6c97e62c1020017f716b91"><param name="Name" value="ki"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#a1f7add0f84d583bc2eceb290d6c4cc06"><param name="Name" value="kp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#aad92deaf7a5b8c4b060a1b3aa01236bb"><param name="Name" value="lapCNT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#ae70666c94f6dedcf20373509f86ef573"><param name="Name" value="lapCNT_pre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a8718e12c63580137f1045c19563d91e8"><param name="Name" value="nCalibrationFlag"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#af3f1c7d958554a481027e6d53acf02d7"><param name="Name" value="nPhase"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a514da89140a829d5eb40403a1bf3fabe"><param name="Name" value="nPolePairs"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="control_8h.html#a1daf785e3f68d293c7caa1c756d5cb74"><param name="Name" value="pi"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_components.html#a0a19a0620af7373e3ddba0ce4e1058e1"><param name="Name" value="q"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a75cc7805bfd0f3ad0c48a5d1542c9c85"><param name="Name" value="sector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a7f7e4724cf57d59513b39c5ecc81adc8"><param name="Name" value="speed"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a8c9772f89af80dbb285c149a0374172c"><param name="Name" value="speedPID"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_motor.html#a6c5e12603b08b48bbe644498c18d696d"><param name="Name" value="speed_pre"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_p_i_d__para.html#af0df2177301e4061ab72ade2ea437bcd"><param name="Name" value="target"></OBJECT>
+</UL>
+</BODY>
+</HTML>
