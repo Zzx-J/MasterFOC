@@ -9,7 +9,7 @@ This project contains:
   - The FOC Position Loop Simulink Model
   
 2. Dual Motor driver library that suitable for STM32 microcontroller
-  - [Documentation]()
+  - [Documentation](file:///C:/Users/Zexing/Desktop/doc/html/index.html)
   - Library structure
   - ![image](https://user-images.githubusercontent.com/82952761/203454754-2094ec53-be69-4241-af8b-210347a4c474.png)
   
