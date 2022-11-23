@@ -37,7 +37,8 @@ This project contains:
     -	Supply voltage sensing to provide under-voltage protection.
 
 4. Test result for this library
-  For detailed result for both MATLAB simulation and STM32 Driver library, please see the reprot in the test folder. Simplest version of mode tests video were given below:
+    
+    For detailed result for both MATLAB simulation and STM32 Driver library, please see the reprot in the test folder. Simplest version of mode tests video were given below:
   - Speed test:
   
 
