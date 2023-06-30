@@ -1,4 +1,13 @@
+
+
 # MasterFOC-Brief
+
+
+Hello Zexing Zhao.
+I apologize for bothering you.
+With the MasterFOC project, How can i get in touch with you.
+Do you use email or Webchat?
+Can you help me. Thank yo so much.
 
 This project contains:
 1. The simulation of FOC algorithm using MATLAB, which includes,
